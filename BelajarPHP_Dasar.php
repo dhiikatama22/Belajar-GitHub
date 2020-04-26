@@ -11,8 +11,9 @@
             } else if ($i == 9){
                 echo " = That's my Birthday Date";
 
-        } else {
- 
+            } else {
+            
         }
+
     }
 ?>
