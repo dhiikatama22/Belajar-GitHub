@@ -4,7 +4,12 @@
         
         if ($i == 7) {
             echo " = Binggo";   
+
+            } else if ($i == 9){
+            echo " = That's my Birthday Date";
+        
+        } else {
+ 
         }
-    
     }
 ?>
