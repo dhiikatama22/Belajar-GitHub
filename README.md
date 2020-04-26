@@ -1,5 +1,5 @@
 # Belajar-GitHub
 Langkah Awal Belajar GitHub
-- Membuat Akun GitHub
-- Belajar Membuat Repository
-- Belajar Menggunakan Commit
+- Akun GitHub sudah di buat
+- Berhasil Membuat Repository
+- Berhasil Menggunakan Commit untuk save history
